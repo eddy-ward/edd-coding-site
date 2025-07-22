@@ -1,2 +1,11 @@
-# edd-coding-site
-Eddy’s coding course website offering beginner to advanced web development tutorials, project showcases, video lessons, and direct contact forms for enrollment
+# Welcome to Eddy's Coding Course Website
+
+Learn web development from scratch with HTML, CSS, JavaScript and real projects.  
+✅ Beginner to advanced levels  
+🎬 Video previews  
+🌟 Testimonials  
+📩 Contact via WhatsApp or form
+
+Visit the live site: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
+
+---
